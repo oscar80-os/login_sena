@@ -1,0 +1,345 @@
+/* cocinera 1 */
+#cocinera {
+    /* cocinera 1 */
+
+position: absolute;
+width: 490px;
+height: 381px;
+left: calc(50% - 490px/2 + 55px);
+top: 17px;
+margin: 150px 0px 0 0;
+
+background: url(img/cocinera\ 1.png);
+border-radius: 40px 40px 40px 0px;
+}
+
+#email {
+    /* login email */
+
+box-sizing: border-box;
+margin: 210px 0 0 60px;
+position: absolute;
+width: 298px;
+height: 54px;
+left: calc(50% - 298px/2 + 1.5px);
+top: 359px;
+
+background: rgba(239, 173, 173, 0.8);
+border: 3px solid #DA7676;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 22px;
+}
+
+#password {
+    /* login password */
+
+box-sizing: border-box;
+margin: 220px 0 0 60px;
+position: absolute;
+width: 298px;
+height: 54px;
+left: calc(50% - 298px/2 + 1.5px);
+top: 429px;
+
+background: rgba(239, 173, 173, 0.8);
+border: 3px solid #DA7676;
+border-radius: 22px;
+}
+
+#boton_login {
+   /* boton login */
+
+box-sizing: border-box;
+margin: 230px 0 0 60px;
+position: absolute;
+width: 141px;
+height: 39px;
+left: calc(50% - 141px/2);
+top: 493px;
+
+background: linear-gradient(180deg, rgba(205, 122, 122, 0.8) 0%, rgba(117, 145, 219, 0) 100%);
+border: 2px solid #DA7676;
+border-radius: 22px; 
+}
+
+#google {
+    /* inicier secion con google login */
+
+box-sizing: border-box;
+margin: 240px 0 0 60px;
+position: absolute;
+width: 298px;
+height: 54px;
+left: calc(50% - 298px/2 + 1.5px);
+top: 548px;
+
+background: linear-gradient(180deg, #F57575 0%, rgba(245, 117, 117, 0) 100%);
+border: 3px solid #B34747;
+border-radius: 22px;
+}
+
+
+
+
+#facebook {
+    /* inicier secion con facebook login */
+
+box-sizing: border-box;
+margin: 250px 0 0 60px;
+position: absolute;
+width: 298px;
+height: 54px;
+left: calc(50% - 298px/2 + 1.5px);
+top: 612px;
+
+background: linear-gradient(180deg, #BBC4F5 0%, rgba(187, 196, 245, 0) 100%);
+border: 3px solid #B24747;
+border-radius: 22px;
+
+}
+
+#registro {
+    /* You are not registered, register here */
+
+position: absolute;
+width: 300px;
+height: 28px;
+left: 46px;
+top: 695px;
+margin: 260px 0 0 960px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+
+#logo_registro {
+    /* logo registro */
+
+position: absolute;
+width: 319px;
+height: 210px;
+left: 40px;
+top: 48px;
+margin: 150px 0px 0 900px;
+background: url(img/logo_registro.png);
+border: 4px solid #3ECACA;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px 26px 20px 0px;
+}
+
+#regi {
+    /* Registration */
+
+position: absolute;
+width: 149px;
+height: 41px;
+left: 48px;
+top: 275px;
+margin: 150px 0px 0 900px;
+font-family: 'JejuHallasan';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+
+#name{
+    /* Name */
+
+box-sizing: border-box;
+margin: 150px 0px 0 40px;
+position: absolute;
+width: 298px;
+height: 54px;
+left: calc(50% - 298px/2 + 0.5px);
+top: 356px;
+
+background: rgba(239, 173, 173, 0.8);
+border: 3px solid #DA7676;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 22px;
+}
+
+#surname {
+    /* surname */
+
+box-sizing: border-box;
+margin: 150px 0px 0 40px;
+position: absolute;
+width: 298px;
+height: 54px;
+left: calc(50% - 298px/2 + 0.5px);
+top: 420px;
+
+background: rgba(239, 173, 173, 0.8);
+border: 3px solid #DA7676;
+border-radius: 22px;
+
+}
+
+#id {
+    /* Rectangle 7 */
+
+box-sizing: border-box;
+margin: 150px 0px 0 40px;
+position: absolute;
+width: 298px;
+height: 54px;
+left: calc(50% - 298px/2 + 0.5px);
+top: 484px;
+
+background: rgba(239, 173, 173, 0.8);
+border: 3px solid #DA7676;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 22px;
+}
+
+#date {
+    /* date 'fecha de nacimineto' */
+
+box-sizing: border-box;
+margin: 150px 0px 0 40px;
+position: absolute;
+width: 298px;
+height: 54px;
+left: calc(50% - 298px/2 + 0.5px);
+top: 548px;
+
+background: rgba(239, 173, 173, 0.8);
+border: 3px solid #DA7676;
+border-radius: 22px;
+}
+
+#registration {
+    /* boton gegistro */
+
+box-sizing: border-box;
+margin: 120px 10px 0 40px;
+position: absolute;
+width: 141px;
+height: 39px;
+left: calc(50% - 141px/2 + 12px);
+top: 647px;
+
+background: linear-gradient(180deg, rgba(205, 122, 122, 0.8) 0%, rgba(117, 145, 219, 0) 100%);
+border: 2px solid #DA7676;
+border-radius: 22px;
+}
+
+/*ventana error*/
+
+#regi_error {
+    /* Registration */
+
+position: absolute;
+width: 149px;
+height: 41px;
+left: 48px;
+top: 275px;
+margin: 150px 0px 0 900px;
+font-family: 'JejuHallasan';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+
+#name_error{
+    /* Name */
+
+box-sizing: border-box;
+margin: 150px 0px 0 40px;
+position: absolute;
+width: 298px;
+height: 54px;
+left: calc(50% - 298px/2 + 0.5px);
+top: 356px;
+
+background: rgba(239, 173, 173, 0.8);
+border: 3px solid #DA7676;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 22px;
+}
+
+#surname_error {
+    /* surname */
+
+box-sizing: border-box;
+margin: 150px 0px 0 40px;
+position: absolute;
+width: 298px;
+height: 54px;
+left: calc(50% - 298px/2 + 0.5px);
+top: 420px;
+
+background: rgba(239, 173, 173, 0.8);
+border: 3px solid #DA7676;
+border-radius: 22px;
+
+}
+
+#id_error {
+    /* Rectangle 7 */
+
+box-sizing: border-box;
+margin: 150px 0px 0 40px;
+position: absolute;
+width: 298px;
+height: 54px;
+left: calc(50% - 298px/2 + 0.5px);
+top: 484px;
+
+background: rgba(239, 173, 173, 0.8);
+border: 3px solid #DA7676;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 22px;
+}
+
+#date_error {
+    /* date 'fecha de nacimineto' */
+
+box-sizing: border-box;
+margin: 150px 0px 0 40px;
+position: absolute;
+width: 298px;
+height: 54px;
+left: calc(50% - 298px/2 + 0.5px);
+top: 548px;
+
+background: rgba(239, 173, 173, 0.8);
+border: 3px solid #DA7676;
+border-radius: 22px;
+}
+
+#registration_error {
+    /* boton gegistro */
+
+box-sizing: border-box;
+margin: 120px 10px 0 40px;
+position: absolute;
+width: 141px;
+height: 39px;
+left: calc(50% - 141px/2 + 12px);
+top: 647px;
+
+background: linear-gradient(180deg, rgba(205, 122, 122, 0.8) 0%, rgba(117, 145, 219, 0) 100%);
+border: 2px solid #DA7676;
+border-radius: 22px;
+}
